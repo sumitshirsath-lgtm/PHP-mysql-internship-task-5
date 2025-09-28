@@ -34,4 +34,4 @@ It allows role-based access with Admin and User roles, supports adding, editing,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student_crud_project.git
+   git clone https://github.com/sumitshirsath-lgtm/student_crud_project.git
