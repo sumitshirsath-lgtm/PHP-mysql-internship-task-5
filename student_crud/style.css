@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+table, th, td {
+    border: 1px solid #999;
+    padding: 10px;
+}
+
+.btn, .btn-edit, .btn-delete {
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn {
+    background: #28a745;
+    color: white;
+}
+
+.btn-edit {
+    background: #007bff;
+    color: white;
+}
+
+.btn-delete {
+    background: #dc3545;
+    color: white;
+}
